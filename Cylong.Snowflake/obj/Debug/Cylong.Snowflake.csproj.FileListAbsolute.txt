@@ -9,3 +9,9 @@ F:\Cylong.Snowflake\Cylong.Snowflake\Cylong.Snowflake\obj\Debug\Cylong.Snowflake
 F:\Cylong.Snowflake\Cylong.Snowflake\Cylong.Snowflake\obj\Debug\Cylong.Snowflake.dll
 F:\Cylong.Snowflake\Cylong.Snowflake\Cylong.Snowflake\obj\Debug\Cylong.Snowflake.pdb
 F:\Cylong.Snowflake\Cylong.Snowflake\Cylong.Snowflake\bin\Debug\Newtonsoft.Json.xml
+F:\工作文件\打包文件\Cylong.Snowflake\Cylong.Snowflake\bin\Debug\Cylong.Snowflake.dll
+F:\工作文件\打包文件\Cylong.Snowflake\Cylong.Snowflake\bin\Debug\Cylong.Snowflake.pdb
+F:\工作文件\打包文件\Cylong.Snowflake\Cylong.Snowflake\bin\Debug\Newtonsoft.Json.xml
+F:\工作文件\打包文件\Cylong.Snowflake\Cylong.Snowflake\obj\Debug\Cylong.Snowflake.csprojResolveAssemblyReference.cache
+F:\工作文件\打包文件\Cylong.Snowflake\Cylong.Snowflake\obj\Debug\Cylong.Snowflake.dll
+F:\工作文件\打包文件\Cylong.Snowflake\Cylong.Snowflake\obj\Debug\Cylong.Snowflake.pdb
